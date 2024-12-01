@@ -1,4 +1,4 @@
-# Wildberries Tariffs Data Aggregator
+# Tariffs Data Aggregator
 
 Сервис для периодического сбора данных о тарифах с маркетплейса Wildberries и их выгрузки в Google Sheets.
 
